@@ -5,6 +5,7 @@
 * sell stock option (done ✅)
 * user profile on '/' (done ✅)
 * optimizing database, adding last_price to redis and dynamically updating database **in reference to lastprice** rather than pushing information real time [ongoing ⌛]
+* shitty polling based real time fetching => shift to websockets [wip]
 ### bug: if already created email being given to sign up [fixed] ✅
 ## celery setup commands: 
 ```bash
